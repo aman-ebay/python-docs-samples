@@ -5,7 +5,7 @@
 [shell_img]: http://gstatic.com/cloudssh/images/open-btn.png
 [shell_link]: https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/GoogleCloudPlatform/python-docs-samples&page=editor&open_in_editor=dataproc/README.md
 
-Sample command-line programs for interacting with the Cloud Dataproc API.
+Sample command-line programs for interacting with the Cloud Dataproc API. 
 
 See [the tutorial on the using the Dataproc API with the Python client
 library](https://cloud.google.com/dataproc/docs/tutorials/python-library-example)
